@@ -1,6 +1,6 @@
 # file-watchdog
 
-A simple `[systemd][systemd]`-friendly daemon that monitors the existance of a
+A simple [`systemd`][systemd]-friendly daemon that monitors the existance of a
 file and executes scripts when it appears/disappears.
 
 [systemd]: https://www.freedesktop.org/wiki/Software/systemd/
